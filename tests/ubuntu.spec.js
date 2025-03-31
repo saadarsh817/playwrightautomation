@@ -8,7 +8,6 @@ test ("testing",async ({page})=>
     await expect(page).toHaveTitle('Goggle')
 });
 
-
 test.only ("checking", async({page})=>
     {
         await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
