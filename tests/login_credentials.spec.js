@@ -14,6 +14,6 @@ export const accountCreate ={
 }
 
 export const loginCredentials ={
-    emailId :"Qweder@gmail.com",
-    passId : "Qweder@1245"
+    emailId :"date123@gmail.com",
+    passId : "Qwerty@12345"
 }

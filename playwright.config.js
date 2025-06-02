@@ -19,7 +19,7 @@ const config = ({
   use : {
     browserName : 'chromium',
     headless : false,
-    slowMo: 10000 
+    slowMo: 50000 
     // screenshot : 'on',
     // trace :'on'
     
